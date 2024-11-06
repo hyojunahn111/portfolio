@@ -30,9 +30,51 @@
 > 간단한 프로젝트 소개 : 크롤링을 통해 노래를 검색하여 원하는 노래를 자신의 플레이리스트에 저장, 공유
 >> Back-end
 >> Language : java
->>
+>> Skill : IntelliJ IDEA, Java 17, mySQL, MyBatis, ERD Croud, Diagrams Draw_IO
 >> 
 >> [프로젝트 상세 설명(Back-end)](https://github.com/hyojunahn111/passaggio_venture/blob/main/README.md)
 >>
+
+<br />
+
+## 3. HanulDure
+> 농촌 체엄 커뮤니티 서비스
+>
+> 개발 기간 : 2024.05.10 ~ 2024.05.24
+> 핵심 역할 : 글 작성, 수정, 상세 페이지, 사용자/농업인 프로필 페이지
+> 간단한 프로젝트 소개 : 한울두레를 이용하여 농촌에 도시 사람들은 왕래를 늘려 농촌 활성화
+>> Back-end
+>> Language : Java
+>> Skill : IntelliJ IDEA, Java 17, mySQL, MyBatis, ERD Croud, Notion, SpringBoot
+>>
+>> [프로젝트 상세 설명(Back-end),(Front-end)](https://github.com/hyojunahn111/HanulDure/blob/main/README.md)
+
+<br />
+
+## 4. DOYOUKNOW
+> 학교정보 공유 사이트
+>
+> 개발 기간 : 2024.05.28 ~ 2024.06.14
+> 핵심 역할 : 메인페이지 구성, 카카오 지도 API
+> 간단한 프로젝트 소개 : 확인하기 복잡한 학교 정보를 간편하게 확인할 수 있는 서비스
+>> Back-end
+>> Language : Java
+>> Skill : IntelliJ IDEA, Java 17, mySQL, MyBatis, ERD Croud, Notion, SpringBoot, Figma, JPA
+>>
+>> [프로젝트 상세 설명(Back-end), (Front-end)](https://github.com/hyojunahn111/DOYOUKNOW/blob/main/README.md)
+>>
+
+<br />
+
+## 5. AboutHorizon
+> 시각장애인을 위한 교육 자료 제공 플랫폼
+>
+> 개발기간 : 2024.08.20 ~ 2024.08.21
+> 핵심역할 : 녹음기, 녹음권한 설정, 녹음내용 clova api를 통한 변환
+> 간단한 프로젝트 소개 : 시각장애인을 대상으로한 교육 자료 제공 프로그램
+>> Back-end
+>> Language : Java
+>> Skill : IntelliJ IDEA, Java 17, mySQL, MyBatis, ERD Croud, SpringBoot, Figma, clova_api, chatGPT4.0
+>> [프로젝트 상세 설명(Back-end)](https://github.com/36Clover/CloverChallenge/blob/main/README.md)
 
 <br />
