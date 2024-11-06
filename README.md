@@ -8,10 +8,12 @@
 
 ## 1. 불사조🧨
 
-> 콘솔 게임(턴제 게임)
+### 콘솔 게임(턴제 게임)
 >
 > 개발 기간 : 2024.03 ~ 2024.04
+> 
 > 핵심 역할 : 게임 로직 구현, intellij를 통한 자바 콘솔 프로젝트 개발
+> 
 > 간단한 프로젝트 소개 : 4가지 캐릭터 중 한 캐릭터를 선택하여 보스를 무찌르며 탑을 오르는 게임
 > 
 >> Back-end
@@ -23,14 +25,17 @@
 <br />
 
 ## 2. Passaggio🎼
-> 개인 플레이리스트 만들기
+### 개인 플레이리스트 만들기
 >
 > 개발 기간 : 2024.04.08 ~ 2024.04.15
+> 
 > 핵심 역할 : 회원가입, 로그인
+> 
 > 간단한 프로젝트 소개 : 크롤링을 통해 노래를 검색하여 원하는 노래를 자신의 플레이리스트에 저장, 공유
 >> Back-end
->> Language : java
->> Skill : IntelliJ IDEA, Java 17, mySQL, MyBatis, ERD Croud, Diagrams Draw_IO
+>> - Language : java
+>> 
+>> - Skill : IntelliJ IDEA, Java 17, mySQL, MyBatis, ERD Croud, Diagrams Draw_IO
 >> 
 >> [프로젝트 상세 설명(Back-end)](https://github.com/hyojunahn111/passaggio_venture/blob/main/README.md)
 >>
@@ -38,14 +43,17 @@
 <br />
 
 ## 3. HanulDure
-> 농촌 체엄 커뮤니티 서비스
+### 농촌 체험 커뮤니티 서비스
 >
 > 개발 기간 : 2024.05.10 ~ 2024.05.24
+>
 > 핵심 역할 : 글 작성, 수정, 상세 페이지, 사용자/농업인 프로필 페이지
+>
 > 간단한 프로젝트 소개 : 한울두레를 이용하여 농촌에 도시 사람들은 왕래를 늘려 농촌 활성화
 >> Back-end
->> Language : Java
->> Skill : IntelliJ IDEA, Java 17, mySQL, MyBatis, ERD Croud, Notion, SpringBoot
+>> 
+>> - Language : Java
+>> - Skill : IntelliJ IDEA, Java 17, mySQL, MyBatis, ERD Croud, Notion, SpringBoot
 >>
 >> [프로젝트 상세 설명(Back-end),(Front-end)](https://github.com/hyojunahn111/HanulDure/blob/main/README.md)
 
@@ -58,8 +66,10 @@
 > 핵심 역할 : 메인페이지 구성, 카카오 지도 API
 > 간단한 프로젝트 소개 : 확인하기 복잡한 학교 정보를 간편하게 확인할 수 있는 서비스
 >> Back-end
->> Language : Java
->> Skill : IntelliJ IDEA, Java 17, mySQL, MyBatis, ERD Croud, Notion, SpringBoot, Figma, JPA
+>> 
+>> - Language : Java
+>> 
+>> - Skill : IntelliJ IDEA, Java 17, mySQL, MyBatis, ERD Croud, Notion, SpringBoot, Figma, JPA
 >>
 >> [프로젝트 상세 설명(Back-end), (Front-end)](https://github.com/hyojunahn111/DOYOUKNOW/blob/main/README.md)
 >>
@@ -73,8 +83,10 @@
 > 핵심역할 : 녹음기, 녹음권한 설정, 녹음내용 clova api를 통한 변환
 > 간단한 프로젝트 소개 : 시각장애인을 대상으로한 교육 자료 제공 프로그램
 >> Back-end
->> Language : Java
->> Skill : IntelliJ IDEA, Java 17, mySQL, MyBatis, ERD Croud, SpringBoot, Figma, clova_api, chatGPT4.0
+>> 
+>> - Language : Java
+>> 
+>> - Skill : IntelliJ IDEA, Java 17, mySQL, MyBatis, ERD Croud, SpringBoot, Figma, clova_api, chatGPT4.0
 >> 
 >> [프로젝트 상세 설명(Back-end)](https://github.com/36Clover/CloverChallenge/blob/main/README.md)
 
@@ -87,7 +99,9 @@
 > 핵심 역할 : 프론트 구현
 > 간단한 프로젝트 소개 : 여러 곳에 흩어져 있는 여행에 관한 정보를 한 사이트에 출력
 >> Front-end
->> Language : java
->> Skill : React, IntelliJ IDEA, Java 17, Figma, notion
+>> 
+>> - Language : java
+>> 
+>> - Skill : React, IntelliJ IDEA, Java 17, Figma, notion
 >>
 >> [프로젝트 코드(Front-end)](https://github.com/hyojunahn111/Mohaeng)
