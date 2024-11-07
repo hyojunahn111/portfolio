@@ -35,7 +35,7 @@
 >> Back-end
 >> - Language : java
 >> 
->> - Skill : IntelliJ IDEA, Java 17, mySQL, MyBatis, ERD Croud, Diagrams Draw_IO
+>> - Skill : IntelliJ IDEA, Java 17, mySQL, MyBatis, ERD Cloud, Diagrams Draw_IO
 >> 
 >> [프로젝트 상세 설명(Back-end)](https://github.com/hyojunahn111/passaggio_venture/blob/main/README.md)
 >>
@@ -53,7 +53,7 @@
 >> Back-end
 >> 
 >> - Language : Java
->> - Skill : IntelliJ IDEA, Java 17, mySQL, MyBatis, ERD Croud, Notion, SpringBoot
+>> - Skill : IntelliJ IDEA, Java 17, mySQL, MyBatis, ERD Cloud, Notion, SpringBoot
 >>
 >> [프로젝트 상세 설명(Back-end),(Front-end)](https://github.com/hyojunahn111/HanulDure/blob/main/README.md)
 
@@ -69,7 +69,7 @@
 >> 
 >> - Language : Java
 >> 
->> - Skill : IntelliJ IDEA, Java 17, mySQL, MyBatis, ERD Croud, Notion, SpringBoot, Figma, JPA
+>> - Skill : IntelliJ IDEA, Java 17, mySQL, MyBatis, ERD Cloud, Notion, SpringBoot, Figma, JPA
 >>
 >> [프로젝트 상세 설명(Back-end), (Front-end)](https://github.com/hyojunahn111/DOYOUKNOW/blob/main/README.md)
 >>
@@ -86,7 +86,7 @@
 >> 
 >> - Language : Java
 >> 
->> - Skill : IntelliJ IDEA, Java 17, mySQL, MyBatis, ERD Croud, SpringBoot, Figma, clova_api, chatGPT4.0
+>> - Skill : IntelliJ IDEA, Java 17, mySQL, MyBatis, ERD Cloud, SpringBoot, Figma, clova_api, chatGPT4.0
 >> 
 >> [프로젝트 상세 설명(Back-end)](https://github.com/36Clover/CloverChallenge/blob/main/README.md)
 
