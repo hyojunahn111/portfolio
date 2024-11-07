@@ -105,3 +105,17 @@
 >> - Skill : React, IntelliJ IDEA, Java 17, Figma, notion
 >>
 >> [프로젝트 코드(Front-end)](https://github.com/hyojunahn111/Mohaeng)
+
+## 7. ARKQuiz
+> ARK Quiz 어플
+>
+> 개발기간 : 2021.01 ~ 2021.05
+> 핵심역할 : 백앤드 구현, 어플 디자인 구현, 퀴즈 제작
+> 간단한 프로젝트 소개 : 게임 퀴즈 게임
+>> Back-end
+>>
+>> - Language : java
+>>
+>> - Skill : Java 17, Figma
+>>
+>> [프로젝트 코드(Back-end)](https://github.com/hyojunahn111/ARKQuiz)
