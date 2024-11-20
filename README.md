@@ -121,9 +121,9 @@
 >> [프로젝트 코드(Back-end)](https://github.com/hyojunahn111/ARKQuiz)
 
 ## 8. 서울도시철도공사 편의시설물 관리 시스템
-> 편의시설물 관리 시스템
-> PPT : <https://docs.google.com/presentation/d/1b_W1BJrCs-3H-IYmm7Q_oJoeQ_IkllQ_/edit?usp=sharing&ouid=115728513844734767313&rtpof=true&sd=true>
-> 보고서 : <https://drive.google.com/file/d/1xaH-7nWwUrm_remqkb2-0XlAhb8FUxxZ/view?usp=sharing>
+> 편의시설물 관리 시스템</br>
+> PPT : <https://docs.google.com/presentation/d/1b_W1BJrCs-3H-IYmm7Q_oJoeQ_IkllQ_/edit?usp=sharing&ouid=115728513844734767313&rtpof=true&sd=true></br>
+> 보고서 : <https://drive.google.com/file/d/1xaH-7nWwUrm_remqkb2-0XlAhb8FUxxZ/view?usp=sharing></br>
 >
 > 개발기간 : 2021.01 ~ 2023.12.17
 > 핵심역할 : 데이터베이스, 폼 제작
