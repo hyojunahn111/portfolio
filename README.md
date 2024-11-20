@@ -120,7 +120,7 @@
 >>
 >> [프로젝트 코드(Back-end)](https://github.com/hyojunahn111/ARKQuiz)
 
-## 8. 서울도시철도공사 편의시설물 관리 시스템
+## 8. 서울도시철도공사 편의시설물 관리 시스템 🚄
 [![image](https://github.com/user-attachments/assets/c2bef9d6-c0d0-4346-bc26-627e06a9e933)](<https://docs.google.com/presentation/d/1b_W1BJrCs-3H-IYmm7Q_oJoeQ_IkllQ_/edit?usp=sharing&ouid=115728513844734767313&rtpof=true&sd=true>)
 
 > 편의시설물 관리 시스템</br>
