@@ -55,7 +55,7 @@
 
 - Back-end
   - Language: Java
-  - Skill: 
+  - Skill: Java 17, Spring Boot 3, Spring Security, OAuth 2.0 Client, Spring Data JPA, MySQL 8, Gradle, GitHub, ERD Cloud, Notion, Figma
 - 링크: [프로젝트 상세 설명(Back-end)](https://github.com/DoYous/Senials-Backend/blob/main/README.md)
 
 <p align="right"><a href="#toc">맨 위로 이동 ⤴</a></p>
