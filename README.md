@@ -209,15 +209,30 @@
   - Language: C#
   - Skill: Visual Studio, DA#, Case Studio 2
 - 링크
-  - PPT: https://docs.google.com/presentation/d/1b_W1BJrCs-3H-IYmm7Q_oJoeQ_IkllQ_/edit?usp=sharing&ouid=115728513844734767313&rtpof=true&sd=true
-  - 보고서: https://drive.google.com/file/d/1xaH-7nWwUrm_remqkb2-0XlAhb8FUxxZ/view?usp=sharing
   - 프로젝트(Back-end): https://drive.google.com/file/d/1xOvpUb3Sa8YoZU_ZFwkya6BLFQXgqtT_/view?usp=sharing
 
-<p>
-  <a href="https://docs.google.com/presentation/d/1b_W1BJrCs-3H-IYmm7Q_oJoeQ_IkllQ_/edit?usp=sharing&ouid=115728513844734767313&rtpof=true&sd=true">
-    <img src="https://github.com/user-attachments/assets/c2bef9d6-c0d0-4346-bc26-627e06a9e933" alt="서울도시철도공사 편의시설물 관리 시스템" />
+<table>
+<tr>
+  <!-- 왼쪽: 이미지 -->
+  <td align="center">
+    <a href="https://docs.google.com/presentation/d/1b_W1BJrCs-3H-IYmm7Q_oJoeQ_IkllQ_/edit?usp=sharing">
+      <img src="https://github.com/user-attachments/assets/c2bef9d6-c0d0-4346-bc26-627e06a9e933" alt="서울도시철도공사 편의시설물 관리 시스템" width="300" style="height:auto;" />
+    </a>
+    <br/>
+    <sub>📄 이미지를 클릭하면 PPT로 이동합니다</sub>
+  </td>
+
+  <!-- 오른쪽: 링크 안내 -->
+<td align="center" valign="top">
+  <a href="https://drive.google.com/file/d/1xaH-7nWwUrm_remqkb2-0XlAhb8FUxxZ/view?usp=sharing">
+    <img src="https://github.com/user-attachments/assets/2dcb211b-5264-4bf9-85a7-d3c3752c69af" alt="보고서 이미지" width="300" style="height:auto;" />
   </a>
-</p>
+  <br/>
+  <sub>📄 이미지를 클릭하면 보고서로 이동합니다</sub>
+</td>
+</tr>
+</table>
+
 
 <p align="right"><a href="#toc">맨 위로 이동 ⤴</a></p>
 <hr/>
