@@ -14,6 +14,11 @@
 <!-- 목차 -->
 <h2 id="toc">목차</h2>
 
+- [13. 쪼개몰](#zzogaemall)
+- [12. 머니핑](#moneyping)
+- [11. GongGongHouse](#gonggonghouse)
+- [10. AI가 알려주는 오늘의 채용 날씨](#ai-weather)
+- [9. Senials 👨‍🦳](#sinals)
 - [8. AboutHorizon ✈](#abouthorizon)
 - [7. DOYOUKNOW 🛴](#doyouknow)
 - [6. HanulDure 🏞](#hanuldure)
@@ -24,6 +29,40 @@
 - [1. ARKQuiz 🎃](#arkquiz)
 
 <hr/>
+
+
+
+
+
+
+
+
+
+
+
+<!-- 9 -->
+<h2 id="sinals">9. Senials 👨‍🦳</h2>
+
+<p>
+  <img src="https://img.shields.io/badge/기간-2024.09.11~2024.12.17-7952B3" /><br>
+  <img src="https://img.shields.io/badge/역할-Github형상관리/SecurityLogin/OauthLogin-20C997" /><br>
+  <img src="https://img.shields.io/badge/분야-시니어를 위한 취미 추천-0FA958" />
+</p>
+
+<blockquote>
+자신의 취미를 가지지 못해 무기력하게 살아가는 시니어들을 위한 맞춤형 취미 추천과 동호회 또는 취미 집단 매칭 웹페이지
+</blockquote>
+
+- Back-end
+  - Language: Java
+  - Skill: 
+- 링크: [프로젝트 상세 설명(Back-end)](https://github.com/DoYous/Senials-Backend/blob/main/README.md)
+
+<p align="right"><a href="#toc">맨 위로 이동 ⤴</a></p>
+<hr/>
+
+
+
 
 <!-- 8 -->
 <h2 id="abouthorizon">8. AboutHorizon ✈</h2>
@@ -103,7 +142,7 @@
 </blockquote>
 
 - Front-end
-  - Language: Java
+  - Language: JavaScript
   - Skill: React, IntelliJ IDEA, Java 17, Figma, Notion
 - 링크: [프로젝트 코드(Front-end)](https://github.com/hyojunahn111/Mohaeng)
 
