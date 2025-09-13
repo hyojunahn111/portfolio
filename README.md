@@ -15,7 +15,7 @@
 <h2 id="toc">목차</h2>
 
 - [13. 쪼개몰](#zzogaemall)
-- [12. 머니핑](#moneyping)
+- [12. 머니핑 💰](#moneyping)
 - [11. GongGongHouse 🏠](#gonggonghouse)
 - [10. AI가 알려주는 오늘의 채용 날씨 ☂️](#ai-job-weather)
 - [9. Senials 👨‍🦳](#sinals)
@@ -31,7 +31,32 @@
 <hr/>
 
 
+<!-- 12 -->
+<h2 id="#moneyping">11. 머니핑(아이디어 해커톤) 💰</h2>
 
+<p>
+  <img src="https://img.shields.io/badge/기간-2025.06.30~2025.07.01-7952B3" /><br>
+  <img src="https://img.shields.io/badge/역할-자료조사-20C997" /><br>
+  <img src="https://img.shields.io/badge/분야-금융 관리 앱-0FA958" />
+</p>
+
+<blockquote>
+부모와 자녀가 함께 참여하여 금융 습관을 형성하고 관리할 수 있는 앱
+</blockquote>
+
+- 아이디어 해커톤
+  - Language: -
+  - Skill: agile
+
+
+
+
+- 배경: [배경.pdf](https://github.com/user-attachments/files/22311866/3._._.pdf)
+- PPT: [머니핑.pdf](https://github.com/user-attachments/files/22311881/3.pdf)
+- agile: [머니핑 agile figma](https://www.figma.com/design/ruajNmq7QWqaStt0kJxMv5/LG-CNS-2%EA%B8%B0-%EA%B8%88%EC%9C%B5-3%EC%A1%B0?node-id=0-1&p=f&t=s9yAHwbNpv3ks7ew-0)
+
+<p align="right"><a href="#toc">맨 위로 이동 ⤴</a></p>
+<hr/>
 
 
 <!-- 11 -->
