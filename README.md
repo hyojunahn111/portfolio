@@ -259,7 +259,7 @@
 <h2 id="mohaeng">5. Mohaeng 🛫</h2>
 
 <p>
-  <img src="https://img.shields.io/badge/기간-2024.04~2024.05-7952B3" /><br>
+  <img src="https://img.shields.io/badge/기간-2024.04.29~2024.05.05-7952B3" /><br>
   <img src="https://img.shields.io/badge/역할-프론트_구현-20C997" /><br>
   <img src="https://img.shields.io/badge/분야-여행_정보_집약-0FA958" />
 </p>
@@ -303,7 +303,7 @@
 <h3>콘솔 게임(턴제 게임)</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/기간-2024.03~2024.04-7952B3" /><br>
+  <img src="https://img.shields.io/badge/기간-2024.03.19~2024.04.01-7952B3" /><br>
   <img src="https://img.shields.io/badge/역할-게임_로직/Java_콘솔-20C997" /><br>
   <img src="https://img.shields.io/badge/분야-턴제_게임-0FA958" />
 </p>
