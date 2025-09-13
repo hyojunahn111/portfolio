@@ -14,10 +14,11 @@
 <!-- 목차 -->
 <h2 id="toc">목차</h2>
 
-- [13. 쪼개몰](#zzogaemall)
-- [12. 머니핑 💰](#moneyping)
-- [11. GongGongHouse 🏠](#gonggonghouse)
-- [10. AI가 알려주는 오늘의 채용 날씨 ☂️](#ai-job-weather)
+- [14. 쪼개몰 🧩](#zzogaemall)
+- [13. 머니핑 💰(아이디어톤)](#moneyping)
+- [12. GongGongHouse 🏠](#gonggonghouse)
+- [11. AI가 알려주는 오늘의 채용 날씨 ☂️](#ai-job-weather)
+- [10. 생성형 AI 기반 음성인식 배달 서비스 🚚(아이디어톤)](#hanpa)
 - [9. Senials 👨‍🦳](#sinals)
 - [8. AboutHorizon ✈](#abouthorizon)
 - [7. DOYOUKNOW 🛴](#doyouknow)
@@ -31,8 +32,36 @@
 <hr/>
 
 
-<!-- 12 -->
-<h2 id="#moneyping">11. 머니핑(아이디어 해커톤) 💰</h2>
+<!-- 14 -->
+<h2 id="#zzogaemall">14. 쪼개몰 🧩</h2> (진행중)
+
+<p>
+  <img src="https://img.shields.io/badge/기간-2025.07.04~2025.09.17-7952B3" /><br>
+  <img src="https://img.shields.io/badge/역할-api연동/화면구현/형상관리자-20C997" /><br>
+  <img src="https://img.shields.io/badge/분야-블록체인 기반 조각투자-0FA958" />
+</p>
+
+<blockquote>
+블록체인 기반 조각투자 플랫폼
+</blockquote>
+
+- 아이디어 해커톤
+  - Language: Java, JavaScript
+  - Skill: React, NPM, Tailwind, Axios, Vite, Api-gateway, MSA
+- 링크: [프로젝트](https://github.com/LG-CNS-2-FINAL-PROJECT-FINANCE)
+<br>
+<br>
+
+- Notion: [쪼개몰 Notion](https://www.notion.so/3-ZzoGaeMall-225fef49d8d58064bd44d58fe3b973b2)
+- PPT: (추후 추가)
+- 시연영상: (추후 추가)
+
+<p align="right"><a href="#toc">맨 위로 이동 ⤴</a></p>
+<hr/>
+
+
+<!-- 13 -->
+<h2 id="#moneyping">13. 머니핑(아이디어 해커톤) 💰</h2>
 
 <p>
   <img src="https://img.shields.io/badge/기간-2025.06.30~2025.07.01-7952B3" /><br>
@@ -50,17 +79,16 @@
 
 
 
-
 - 배경: [배경.pdf](https://github.com/user-attachments/files/22311866/3._._.pdf)
 - PPT: [머니핑.pdf](https://github.com/user-attachments/files/22311881/3.pdf)
-- agile: [머니핑 agile figma](https://www.figma.com/design/ruajNmq7QWqaStt0kJxMv5/LG-CNS-2%EA%B8%B0-%EA%B8%88%EC%9C%B5-3%EC%A1%B0?node-id=0-1&p=f&t=s9yAHwbNpv3ks7ew-0)
+
 
 <p align="right"><a href="#toc">맨 위로 이동 ⤴</a></p>
 <hr/>
 
 
-<!-- 11 -->
-<h2 id="#gonggonghouse">11. GongGongHouse 🏠</h2>
+<!-- 12 -->
+<h2 id="#gonggonghouse">12. GongGongHouse 🏠</h2>
 
 <p>
   <img src="https://img.shields.io/badge/기간-2025.05.26~2025.06.26-7952B3" /><br>
@@ -75,7 +103,7 @@
 - Back-end, front-end
   - Language: Java, javaScript
   - Skill: Java, Spring Boot, Spring Security, Spring Data JPA, MySQL 8, Gradle, GitHub, ERD Cloud, Notion, Figma, MSA, Api-gateway, Docker, Kafka
-- 링크: [프로젝트(Back-end)](https://github.com/hyojunahn111/GongGongHouse)
+- 링크: [프로젝트](https://github.com/hyojunahn111/GongGongHouse)
 
 
 - PPT: [GongGongHouse.pdf](https://github.com/user-attachments/files/22311821/8.-.pdf)
@@ -84,8 +112,8 @@
 <hr/>
 
 
-<!-- 10 -->
-<h2 id="ai-job-weather">10. AI가 알려주는 오늘의 채용 날씨 ☂️</h2>
+<!-- 11 -->
+<h2 id="ai-job-weather">11. AI가 알려주는 오늘의 채용 날씨 ☂️</h2>
 
 <p>
   <img src="https://img.shields.io/badge/기간-2025.03.20~2025.05.23-7952B3" /><br>
@@ -104,6 +132,30 @@
 - 링크: [프로젝트(Front-end)](https://github.com/LG-CNS-AM-CAMP-2ND-PJT1-TEAM9/job-weather-front)
   
 - PPT: [good job today.pdf](https://github.com/user-attachments/files/22311760/good.job.today.pdf)
+
+<p align="right"><a href="#toc">맨 위로 이동 ⤴</a></p>
+<hr/>
+
+
+<!-- 10 -->
+<h2 id="hanpa">10. 생성형 AI 기반 음성인식 배달 서비스 🚚(아이디어톤)</h2>
+
+<p>
+  <img src="https://img.shields.io/badge/기간-2024.11.14~2024.11.22-7952B3" /><br>
+  <img src="https://img.shields.io/badge/역할-자료조사/ppt제작/발표-20C997" /><br>
+  <img src="https://img.shields.io/badge/분야-AI 배달 주문-0FA958" />
+</p>
+
+<blockquote>
+생성형 AI 기반 음성인식 배달 서비스
+</blockquote>
+
+- Back-end
+  - Language: -
+  - Skill: -
+ 
+- PPT: [AI기반 음성인식 배달 서비스.pdf](https://github.com/user-attachments/files/22311976/_AI.pdf)
+
 
 <p align="right"><a href="#toc">맨 위로 이동 ⤴</a></p>
 <hr/>
