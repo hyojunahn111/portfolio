@@ -6,7 +6,7 @@
 <!-- 소개 -->
 <h2>INTRO</h2>
 <blockquote>
-안녕하십니까! 백앤드 개발자 안효준입니다! <br/>
+안녕하십니까! 백엔드, 프론트엔드 개발자 안효준입니다! <br/>
 지금까지 프로젝트를 개발하면서 백엔드, 프론트엔드, 클라우드 개발을 공부해왔습니다. <br/>
 아래 정보(최신등록순)들을 통해 개발 내역을 확인할 수 있습니다!
 </blockquote>
@@ -16,8 +16,8 @@
 
 - [13. 쪼개몰](#zzogaemall)
 - [12. 머니핑](#moneyping)
-- [11. GongGongHouse](#gonggonghouse)
-- [10. AI가 알려주는 오늘의 채용 날씨](#ai-weather)
+- [11. GongGongHouse 🏠](#gonggonghouse)
+- [10. AI가 알려주는 오늘의 채용 날씨 ☂️](#ai-job-weather)
 - [9. Senials 👨‍🦳](#sinals)
 - [8. AboutHorizon ✈](#abouthorizon)
 - [7. DOYOUKNOW 🛴](#doyouknow)
@@ -34,10 +34,54 @@
 
 
 
+<!-- 11 -->
+<h2 id="#gonggonghouse">11. GongGongHouse 🏠</h2>
+
+<p>
+  <img src="https://img.shields.io/badge/기간-2025.05.26~2025.06.26-7952B3" /><br>
+  <img src="https://img.shields.io/badge/역할-커뮤니티 페이지/Kafka/docker/api-gateway-20C997" /><br>
+  <img src="https://img.shields.io/badge/분야-청년 집 정보 제공 서비스-0FA958" />
+</p>
+
+<blockquote>
+집을 구하기 힘든 청년들을 위해 필요한 정보를 제공하는 서비스
+</blockquote>
+
+- Back-end, front-end
+  - Language: Java, javaScript
+  - Skill: Java, Spring Boot, Spring Security, Spring Data JPA, MySQL 8, Gradle, GitHub, ERD Cloud, Notion, Figma, MSA, Api-gateway, Docker, Kafka
+- 링크: [프로젝트(Back-end)](https://github.com/hyojunahn111/GongGongHouse)
 
 
+- PPT: [GongGongHouse.pdf](https://github.com/user-attachments/files/22311821/8.-.pdf)
+
+<p align="right"><a href="#toc">맨 위로 이동 ⤴</a></p>
+<hr/>
 
 
+<!-- 10 -->
+<h2 id="ai-job-weather">10. AI가 알려주는 오늘의 채용 날씨 ☂️</h2>
+
+<p>
+  <img src="https://img.shields.io/badge/기간-2025.03.20~2025.05.23-7952B3" /><br>
+  <img src="https://img.shields.io/badge/역할-채용정보 페이지/사람인API-20C997" /><br>
+  <img src="https://img.shields.io/badge/분야-신입 개발자를 위한 채용 정보 추천-0FA958" />
+</p>
+
+<blockquote>
+신입 개발자를 위한 맞춤형 채용 정보/기업 뉴스 서비스
+</blockquote>
+
+- Back-end, front-end
+  - Language: Java, javaScript
+  - Skill: Java, Spring Boot, Spring Security, Spring Data JPA, MySQL 8, Gradle, GitHub, ERD Cloud, Notion, Figma, MSA, 
+- 링크: [프로젝트(Back-end)](https://github.com/LG-CNS-AM-CAMP-2ND-PJT1-TEAM9/job_weather_back)
+- 링크: [프로젝트(Front-end)](https://github.com/LG-CNS-AM-CAMP-2ND-PJT1-TEAM9/job-weather-front)
+  
+- PPT: [good job today.pdf](https://github.com/user-attachments/files/22311760/good.job.today.pdf)
+
+<p align="right"><a href="#toc">맨 위로 이동 ⤴</a></p>
+<hr/>
 
 
 <!-- 9 -->
@@ -55,7 +99,7 @@
 
 - Back-end
   - Language: Java
-  - Skill: Java 17, Spring Boot 3, Spring Security, OAuth 2.0 Client, Spring Data JPA, MySQL 8, Gradle, GitHub, ERD Cloud, Notion, Figma
+  - Skill: Java, Spring Boot, Spring Security, OAuth 2.0 Client, Spring Data JPA, MySQL 8, Gradle, GitHub, ERD Cloud, Notion, Figma
 - 링크: [프로젝트 상세 설명(Back-end)](https://github.com/DoYous/Senials-Backend/blob/main/README.md)
 
 <p align="right"><a href="#toc">맨 위로 이동 ⤴</a></p>
@@ -79,7 +123,7 @@
 
 - Back-end
   - Language: Java
-  - Skill: IntelliJ IDEA, Java 17, MySQL, MyBatis, ERD Cloud, SpringBoot, Figma, Clova API, ChatGPT 4.0
+  - Skill: IntelliJ IDEA, Java, MySQL, MyBatis, ERD Cloud, SpringBoot, Figma, Clova API, ChatGPT 4.0
 - 링크: [프로젝트 상세 설명(Back-end)](https://github.com/36Clover/CloverChallenge/blob/main/README.md)
 
 <p align="right"><a href="#toc">맨 위로 이동 ⤴</a></p>
@@ -100,7 +144,7 @@
 
 - Back-end
   - Language: Java
-  - Skill: IntelliJ IDEA, Java 17, MySQL, MyBatis, ERD Cloud, Notion, SpringBoot, Figma, JPA
+  - Skill: IntelliJ IDEA, Java, MySQL, MyBatis, ERD Cloud, Notion, SpringBoot, Figma, JPA
 - 링크: [프로젝트 상세 설명(Back-end), (Front-end)](https://github.com/hyojunahn111/DOYOUKNOW/blob/main/README.md)
 
 <p align="right"><a href="#toc">맨 위로 이동 ⤴</a></p>
@@ -122,7 +166,7 @@
 
 - Back-end
   - Language: Java
-  - Skill: IntelliJ IDEA, Java 17, MySQL, MyBatis, ERD Cloud, Notion, SpringBoot
+  - Skill: IntelliJ IDEA, Java, MySQL, MyBatis, ERD Cloud, Notion, SpringBoot
 - 링크: [프로젝트 상세 설명(Back-end),(Front-end)](https://github.com/hyojunahn111/HanulDure/blob/main/README.md)
 
 <p align="right"><a href="#toc">맨 위로 이동 ⤴</a></p>
@@ -143,7 +187,7 @@
 
 - Front-end
   - Language: JavaScript
-  - Skill: React, IntelliJ IDEA, Java 17, Figma, Notion
+  - Skill: React, IntelliJ IDEA, Java, Figma, Notion
 - 링크: [프로젝트 코드(Front-end)](https://github.com/hyojunahn111/Mohaeng)
 
 <p align="right"><a href="#toc">맨 위로 이동 ⤴</a></p>
@@ -165,7 +209,7 @@
 
 - Back-end
   - Language: Java
-  - Skill: IntelliJ IDEA, Java 17, MySQL, MyBatis, ERD Cloud, Diagrams Draw.io
+  - Skill: IntelliJ IDEA, Java, MySQL, MyBatis, ERD Cloud, Diagrams Draw.io
 - 링크: [프로젝트 상세 설명(Back-end)](https://github.com/hyojunahn111/passaggio_venture/blob/main/README.md)
 
 <p align="right"><a href="#toc">맨 위로 이동 ⤴</a></p>
@@ -252,7 +296,7 @@
 
 - Back-end
   - Language: Java
-  - Skill: Java 17, Figma
+  - Skill: Java, Figma
 - 링크: [프로젝트 코드(Back-end)](https://github.com/hyojunahn111/ARKQuiz)
 
 <p align="right"><a href="#toc">맨 위로 이동 ⤴</a></p>
