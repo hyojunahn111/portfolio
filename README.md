@@ -375,6 +375,7 @@
   - Language: Java
   - Skill: Java, Figma
 - 링크: [프로젝트 코드(Back-end)](https://github.com/hyojunahn111/ARKQuiz)
+- Notion: [노션](https://eloquence-developers.tistory.com/21)
 
 <p align="right"><a href="#toc">맨 위로 이동 ⤴</a></p>
 
