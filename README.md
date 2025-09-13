@@ -1,33 +1,33 @@
-<h1 align="center">📺 안효준 포트폴리오</h1>
-<p align="center">AHNHYOJUN's portfolio</p>
+<h1 align="center">📺 <span style="color:#4A90E2">안효준 포트폴리오</span></h1>
+<p align="center" style="font-size:18px; color:gray;">Full-stack Developer · AHNHYOJUN's portfolio</p>
 
-<hr/>
+<hr style="margin:20px 0;"/>
 
 <!-- 소개 -->
-<h2>INTRO</h2>
-<blockquote>
-안녕하십니까! 백엔드, 프론트엔드 개발자 안효준입니다! <br/>
-지금까지 프로젝트를 개발하면서 백엔드, 프론트엔드, 클라우드 개발을 공부해왔습니다. <br/>
-아래 정보(최신등록순)들을 통해 개발 내역을 확인할 수 있습니다!
-</blockquote>
+<h2>🚀 INTRO</h2>
+<div style="background:#f9f9f9; border-left:5px solid #4A90E2; padding:15px; border-radius:8px;">
+  안녕하십니까! <b>백엔드 · 프론트엔드 개발자 '안효준'</b>입니다. <br/>
+  지금까지 프로젝트를 통해 <b>백엔드, 프론트엔드, 클라우드</b>를 공부해왔습니다. <br/>
+  아래 정보(최신등록순)들을 통해 개발 내역을 확인할 수 있습니다!
+</div>
 
 <!-- 목차 -->
 <h2 id="toc">목차</h2>
 
-- [14. 쪼개몰 🧩](#zzogaemall)
-- [13. 머니핑 💰(아이디어톤)](#moneyping)
-- [12. GongGongHouse 🏠](#gonggonghouse)
-- [11. AI가 알려주는 오늘의 채용 날씨 ☂️](#ai-job-weather)
-- [10. 생성형 AI 기반 음성인식 배달 서비스 🚚(아이디어톤)](#hanpa)
-- [9. Senials 👨‍🦳](#sinals)
-- [8. AboutHorizon ✈](#abouthorizon)
-- [7. DOYOUKNOW 🛴](#doyouknow)
-- [6. HanulDure 🏞](#hanuldure)
-- [5. Mohaeng 🛫](#mohaeng)
-- [4. Passaggio 🎼](#passaggio)
-- [3. 불사조 🧨](#bul-sajo)
-- [2. 서울도시철도공사 편의시설물 관리 시스템 🚄](#seoul-metro-facility)
-- [1. ARKQuiz 🎃](#arkquiz)
+[1. ARKQuiz 🎃](#arkquiz) <br>
+[2. 서울도시철도공사 편의시설물 관리 시스템 🚄](#seoul-metro-facility) <br>
+[3. 불사조 🧨](#bul-sajo) <br>
+[4. Passaggio 🎼](#passaggio) <br>
+[5. Mohaeng 🛫](#mohaeng) <br>
+[6. HanulDure 🏞](#hanuldure) <br>
+[7. DOYOUKNOW 🛴](#doyouknow) <br>
+[8. AboutHorizon ✈](#abouthorizon) <br>
+[9. Senials 👨‍🦳](#sinals) <br>
+[10. 생성형 AI 기반 음성인식 배달 서비스 🚚(아이디어톤)](#hanpa) <br>
+[11. AI가 알려주는 오늘의 채용 날씨 ☂️](#ai-job-weather) <br>
+[12. GongGongHouse 🏠](#gonggonghouse) <br>
+[13. 머니핑 💰(아이디어톤)](#moneyping) <br>
+[14. 쪼개몰 🧩](#zzogaemall) <br>
 
 <hr/>
 
@@ -309,6 +309,13 @@
 - Back-end
   - Language: Java
 - 링크: [프로젝트 상세 설명(Back-end)](https://github.com/2024-venture-game/start/blob/master/README.md)
+
+<table>
+  <td>
+    <a>
+    </a>
+  </td>
+</table>
 
 <p align="right"><a href="#toc">맨 위로 이동 ⤴</a></p>
 <hr/>
