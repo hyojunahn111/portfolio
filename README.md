@@ -1,6 +1,11 @@
 <h1 align="center">📺 <span style="color:#4A90E2">안효준 포트폴리오</span></h1>
 <p align="center" style="font-size:18px; color:gray;">Full-stack Developer · AHNHYOJUN's portfolio</p>
 
+<p align="center" style="margin-top:40px;">
+  📬 <b>Contact</b> · 
+  <a href="mailto:hyojunahn1234@gmail.com">hyojunahn1234@gmail.com</a>
+</p>
+
 <hr style="margin:20px 0;"/>
 
 <!-- 소개 -->
@@ -30,6 +35,7 @@
 [14. 쪼개몰 🧩](#zzogaemall) <br>
 
 <hr/>
+
 
 
 <!-- 14 -->
@@ -310,12 +316,6 @@
   - Language: Java
 - 링크: [프로젝트 상세 설명(Back-end)](https://github.com/2024-venture-game/start/blob/master/README.md)
 
-<table>
-  <td>
-    <a>
-    </a>
-  </td>
-</table>
 
 <p align="right"><a href="#toc">맨 위로 이동 ⤴</a></p>
 <hr/>
