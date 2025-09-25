@@ -39,7 +39,7 @@
 
 
 <!-- 14 -->
-<h2 id="#zzogaemall">14. 쪼개몰 🧩</h2> (진행중)
+<h2 id="#zzogaemall">14. 쪼개몰 🧩</h2>
 
 <p>
   <img src="https://img.shields.io/badge/기간-2025.07.04~2025.09.17-7952B3" /><br>
@@ -60,7 +60,7 @@
 
 - Notion: [쪼개몰 Notion](https://www.notion.so/3-ZzoGaeMall-225fef49d8d58064bd44d58fe3b973b2)
 - PPT: (추후 추가)
-- 시연영상: (추후 추가)
+- 시연영상: [쪼개몰 영상](https://www.youtube.com/watch?v=YqR9gQ3ugHk&feature=youtu.be)
 
 <p align="right"><a href="#toc">맨 위로 이동 ⤴</a></p>
 <hr/>
