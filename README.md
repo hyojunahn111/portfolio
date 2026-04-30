@@ -2,7 +2,7 @@
   <h1>📺 안효준 포트폴리오</h1>
   <p style="font-size:18px; color:gray;">Full-stack Developer · AHNHYOJUN's portfolio</p>
   
-  <!-- 연락처 뱃지 (이메일 수정 완료) -->
+  <!-- 연락처 뱃지 -->
   <a href="mailto:hyojunahn1234@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/>
   </a>
@@ -38,6 +38,7 @@
 
 | No | Project Name | Description | Date |
 |:---:|:---|:---|:---:|
+| 15 | [BookFood 🚧](#15-BookFood-) | 나만의 책 기록 앱 | 26.04 ~ 진행 중 |
 | 14 | [쪼개몰 🧩](#14-쪼개몰-) | 블록체인 기반 조각투자 플랫폼 | 25.07 ~ 25.09 |
 | 13 | 머니핑 💰 | 부모 자녀 동반 금융 습관 형성 앱 | 25.06 ~ 25.07 |
 | 12 | [GongGongHouse 🏠](#12-gonggonghouse-) | 청년 집 정보 제공 서비스 | 25.05 ~ 25.06 |
@@ -54,6 +55,23 @@
 | 1 | ARKQuiz 🎃 | 모바일 게임 퀴즈 애플리케이션 | 21.01 ~ 21.05 |
 
 <br/>
+
+---
+
+## 🔥 CURRENTLY WORKING ON
+
+<h3 id="15-BookFood-">15. BookFood 🚧</h3>
+<p><b>나만의 책 기록 앱</b></p>
+<p>
+  <img src="https://img.shields.io/badge/기간-2026.04~진행중-7952B3?style=flat-square" />
+  <img src="https://img.shields.io/badge/역할-개발-20C997?style=flat-square" />
+  <img src="https://img.shields.io/badge/Skill-VibeCoding-0FA958?style=flat-square" />
+</p>
+
+- **Language:** Java, TypeScript
+- **Links:** [GitHub Repository](#) ｜ [Notion](#) (추후추가)
+
+<p align="right"><a href="#toc">맨 위로 이동 ⤴</a></p>
 
 ---
 
