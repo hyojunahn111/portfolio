@@ -1,394 +1,202 @@
-<h1 align="center">📺 <span style="color:#4A90E2">안효준 포트폴리오</span></h1>
-<p align="center" style="font-size:18px; color:gray;">Full-stack Developer · AHNHYOJUN's portfolio</p>
-
-<p align="center" style="margin-top:40px;">
-  📬 <b>Contact</b> · 
-  <a href="mailto:hyojunahn1234@gmail.com">hyojunahn1234@gmail.com</a>
-</p>
-
-<hr style="margin:20px 0;"/>
-
-<!-- 소개 -->
-<h2>🚀 INTRO</h2>
-<div style="background:#f9f9f9; border-left:5px solid #4A90E2; padding:15px; border-radius:8px;">
-  안녕하십니까! <b>백엔드 · 프론트엔드 개발자 '안효준'</b>입니다. <br/>
-  지금까지 프로젝트를 통해 <b>백엔드, 프론트엔드, 클라우드</b>를 공부해왔습니다. <br/>
-  아래 정보(최신등록순)들을 통해 개발 내역을 확인할 수 있습니다!
+<div align="center">
+  <h1>📺 안효준 포트폴리오</h1>
+  <p style="font-size:18px; color:gray;">Full-stack Developer · AHNHYOJUN's portfolio</p>
+  
+  <!-- 연락처 뱃지 (이메일 수정 완료) -->
+  <a href="mailto:hyojunahn1234@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/hyojunahn111">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"/>
+  </a>
 </div>
 
-<!-- 목차 -->
-<h2 id="toc">목차</h2>
-
-[1. ARKQuiz 🎃](#arkquiz) <br>
-[2. 서울도시철도공사 편의시설물 관리 시스템 🚄](#seoul-metro-facility) <br>
-[3. 불사조 🧨](#bul-sajo) <br>
-[4. Passaggio 🎼](#passaggio) <br>
-[5. Mohaeng 🛫](#mohaeng) <br>
-[6. HanulDure 🏞](#hanuldure) <br>
-[7. DOYOUKNOW 🛴](#doyouknow) <br>
-[8. AboutHorizon ✈](#abouthorizon) <br>
-[9. Senials 👨‍🦳](#sinals) <br>
-[10. 생성형 AI 기반 음성인식 배달 서비스 🚚(아이디어톤)](#hanpa) <br>
-[11. AI가 알려주는 오늘의 채용 날씨 ☂️](#ai-job-weather) <br>
-[12. GongGongHouse 🏠](#gonggonghouse) <br>
-[13. 머니핑 💰(아이디어톤)](#moneyping) <br>
-[14. 쪼개몰 🧩](#zzogaemall) <br>
-
-<hr/>
-
-
-
-<!-- 14 -->
-<h2 id="#zzogaemall">14. 쪼개몰 🧩</h2>
-
-<p>
-  <img src="https://img.shields.io/badge/기간-2025.07.04~2025.09.17-7952B3" /><br>
-  <img src="https://img.shields.io/badge/역할-api연동/화면구현/형상관리자-20C997" /><br>
-  <img src="https://img.shields.io/badge/분야-블록체인 기반 조각투자-0FA958" />
-</p>
-
-<blockquote>
-블록체인 기반 조각투자 플랫폼
-</blockquote>
-
-- 아이디어 해커톤
-  - Language: Java, JavaScript
-  - Skill: React, NPM, Tailwind, Axios, Vite, Api-gateway, MSA
-- 링크: [프로젝트](https://github.com/LG-CNS-2-FINAL-PROJECT-FINANCE)
-<br>
-<br>
-
-- Notion: [쪼개몰 Notion](https://www.notion.so/3-ZzoGaeMall-225fef49d8d58064bd44d58fe3b973b2)
-- PPT: (추후 추가)
-- 시연영상: [쪼개몰 영상](https://www.youtube.com/watch?v=YqR9gQ3ugHk&feature=youtu.be)
-
-<p align="right"><a href="#toc">맨 위로 이동 ⤴</a></p>
-<hr/>
-
-
-<!-- 13 -->
-<h2 id="#moneyping">13. 머니핑(아이디어 해커톤) 💰</h2>
-
-<p>
-  <img src="https://img.shields.io/badge/기간-2025.06.30~2025.07.01-7952B3" /><br>
-  <img src="https://img.shields.io/badge/역할-자료조사-20C997" /><br>
-  <img src="https://img.shields.io/badge/분야-금융 관리 앱-0FA958" />
-</p>
-
-<blockquote>
-부모와 자녀가 함께 참여하여 금융 습관을 형성하고 관리할 수 있는 앱
-</blockquote>
-
-- 아이디어 해커톤
-  - Language: -
-  - Skill: agile
-
-
-
-- 배경: [배경.pdf](https://github.com/user-attachments/files/22311866/3._._.pdf)
-- PPT: [머니핑.pdf](https://github.com/user-attachments/files/22311881/3.pdf)
-
-
-<p align="right"><a href="#toc">맨 위로 이동 ⤴</a></p>
-<hr/>
-
-
-<!-- 12 -->
-<h2 id="#gonggonghouse">12. GongGongHouse 🏠</h2>
-
-<p>
-  <img src="https://img.shields.io/badge/기간-2025.05.26~2025.06.26-7952B3" /><br>
-  <img src="https://img.shields.io/badge/역할-커뮤니티 페이지/Kafka/docker/api-gateway-20C997" /><br>
-  <img src="https://img.shields.io/badge/분야-청년 집 정보 제공 서비스-0FA958" />
-</p>
-
-<blockquote>
-집을 구하기 힘든 청년들을 위해 필요한 정보를 제공하는 서비스
-</blockquote>
-
-- Back-end, front-end
-  - Language: Java, javaScript
-  - Skill: Java, Spring Boot, Spring Security, Spring Data JPA, MySQL 8, Gradle, GitHub, ERD Cloud, Notion, Figma, MSA, Api-gateway, Docker, Kafka
-- 링크: [프로젝트](https://github.com/hyojunahn111/GongGongHouse)
-
-
-- PPT: [GongGongHouse.pdf](https://github.com/user-attachments/files/22311821/8.-.pdf)
-
-<p align="right"><a href="#toc">맨 위로 이동 ⤴</a></p>
-<hr/>
-
-
-<!-- 11 -->
-<h2 id="ai-job-weather">11. AI가 알려주는 오늘의 채용 날씨 ☂️</h2>
-
-<p>
-  <img src="https://img.shields.io/badge/기간-2025.03.20~2025.05.23-7952B3" /><br>
-  <img src="https://img.shields.io/badge/역할-채용정보 페이지/사람인API-20C997" /><br>
-  <img src="https://img.shields.io/badge/분야-신입 개발자를 위한 채용 정보 추천-0FA958" />
-</p>
-
-<blockquote>
-신입 개발자를 위한 맞춤형 채용 정보/기업 뉴스 서비스
-</blockquote>
-
-- Back-end, front-end
-  - Language: Java, javaScript
-  - Skill: Java, Spring Boot, Spring Security, Spring Data JPA, MySQL 8, Gradle, GitHub, ERD Cloud, Notion, Figma, MSA, 
-- 링크: [프로젝트(Back-end)](https://github.com/LG-CNS-AM-CAMP-2ND-PJT1-TEAM9/job_weather_back)
-- 링크: [프로젝트(Front-end)](https://github.com/LG-CNS-AM-CAMP-2ND-PJT1-TEAM9/job-weather-front)
-  
-- PPT: [good job today.pdf](https://github.com/user-attachments/files/22311760/good.job.today.pdf)
-
-<p align="right"><a href="#toc">맨 위로 이동 ⤴</a></p>
-<hr/>
-
-
-<!-- 10 -->
-<h2 id="hanpa">10. 생성형 AI 기반 음성인식 배달 서비스 🚚(아이디어톤)</h2>
-
-<p>
-  <img src="https://img.shields.io/badge/기간-2024.11.14~2024.11.22-7952B3" /><br>
-  <img src="https://img.shields.io/badge/역할-자료조사/ppt제작/발표-20C997" /><br>
-  <img src="https://img.shields.io/badge/분야-AI 배달 주문-0FA958" />
-</p>
-
-<blockquote>
-생성형 AI 기반 음성인식 배달 서비스
-</blockquote>
-
-- Back-end
-  - Language: -
-  - Skill: -
- 
-- PPT: [AI기반 음성인식 배달 서비스.pdf](https://github.com/user-attachments/files/22311976/_AI.pdf)
-
-
-<p align="right"><a href="#toc">맨 위로 이동 ⤴</a></p>
-<hr/>
-
-
-<!-- 9 -->
-<h2 id="sinals">9. Senials 👨‍🦳</h2>
-
-<p>
-  <img src="https://img.shields.io/badge/기간-2024.09.11~2024.12.17-7952B3" /><br>
-  <img src="https://img.shields.io/badge/역할-Github형상관리/SecurityLogin/OauthLogin-20C997" /><br>
-  <img src="https://img.shields.io/badge/분야-시니어를 위한 취미 추천-0FA958" />
-</p>
-
-<blockquote>
-자신의 취미를 가지지 못해 무기력하게 살아가는 시니어들을 위한 맞춤형 취미 추천과 동호회 또는 취미 집단 매칭 웹페이지
-</blockquote>
-
-- Back-end
-  - Language: Java
-  - Skill: Java, Spring Boot, Spring Security, OAuth 2.0 Client, Spring Data JPA, MySQL 8, Gradle, GitHub, ERD Cloud, Notion, Figma
-- 링크: [프로젝트 상세 설명(Back-end)](https://github.com/DoYous/Senials-Backend/blob/main/README.md)
-
-<p align="right"><a href="#toc">맨 위로 이동 ⤴</a></p>
-<hr/>
-
-
-
-
-<!-- 8 -->
-<h2 id="abouthorizon">8. AboutHorizon ✈</h2>
-
-<p>
-  <img src="https://img.shields.io/badge/기간-2024.08.20~2024.08.21-7952B3" /><br>
-  <img src="https://img.shields.io/badge/역할-녹음기/권한/Clova_API-20C997" /><br>
-  <img src="https://img.shields.io/badge/분야-시각장애인_교육자료-0FA958" />
-</p>
-
-<blockquote>
-시각장애인을 위한 교육 자료 제공 플랫폼
-</blockquote>
-
-- Back-end
-  - Language: Java
-  - Skill: IntelliJ IDEA, Java, MySQL, MyBatis, ERD Cloud, SpringBoot, Figma, Clova API, ChatGPT 4.0
-- 링크: [프로젝트 상세 설명(Back-end)](https://github.com/36Clover/CloverChallenge/blob/main/README.md)
-
-<p align="right"><a href="#toc">맨 위로 이동 ⤴</a></p>
-<hr/>
-
-<!-- 7 -->
-<h2 id="doyouknow">7. DOYOUKNOW 🛴</h2>
-
-<p>
-  <img src="https://img.shields.io/badge/기간-2024.05.28~2024.06.14-7952B3" /><br>
-  <img src="https://img.shields.io/badge/역할-메인페이지/카카오지도_API-20C997" /><br>
-  <img src="https://img.shields.io/badge/분야-학교정보_공유-0FA958" />
-</p>
-
-<blockquote>
-확인하기 복잡한 학교 정보를 간편하게 확인할 수 있는 서비스
-</blockquote>
-
-- Back-end
-  - Language: Java
-  - Skill: IntelliJ IDEA, Java, MySQL, MyBatis, ERD Cloud, Notion, SpringBoot, Figma, JPA
-- 링크: [프로젝트 상세 설명(Back-end), (Front-end)](https://github.com/hyojunahn111/DOYOUKNOW/blob/main/README.md)
-
-<p align="right"><a href="#toc">맨 위로 이동 ⤴</a></p>
-<hr/>
-
-<!-- 6 -->
-<h2 id="hanuldure">6. HanulDure 🏞</h2>
-<h3>농촌 체험 커뮤니티 서비스</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/기간-2024.05.10~2024.05.24-7952B3" /><br>
-  <img src="https://img.shields.io/badge/역할-글_작성/수정/상세/프로필-20C997" /><br>
-  <img src="https://img.shields.io/badge/분야-농촌_활성화-0FA958" />
-</p>
-
-<blockquote>
-한울두레를 이용하여 농촌과 도시의 왕래를 늘려 농촌 활성화
-</blockquote>
-
-- Back-end
-  - Language: Java
-  - Skill: IntelliJ IDEA, Java, MySQL, MyBatis, ERD Cloud, Notion, SpringBoot
-- 링크: [프로젝트 상세 설명(Back-end),(Front-end)](https://github.com/hyojunahn111/HanulDure/blob/main/README.md)
-
-<p align="right"><a href="#toc">맨 위로 이동 ⤴</a></p>
-<hr/>
-
-<!-- 5 -->
-<h2 id="mohaeng">5. Mohaeng 🛫</h2>
-
-<p>
-  <img src="https://img.shields.io/badge/기간-2024.04.29~2024.05.05-7952B3" /><br>
-  <img src="https://img.shields.io/badge/역할-프론트_구현-20C997" /><br>
-  <img src="https://img.shields.io/badge/분야-여행_정보_집약-0FA958" />
-</p>
-
-<blockquote>
-여러 곳에 흩어져 있는 여행 정보를 한 사이트에 출력
-</blockquote>
-
-- Front-end
-  - Language: JavaScript
-  - Skill: React, IntelliJ IDEA, Java, Figma, Notion
-- 링크: [프로젝트 코드(Front-end)](https://github.com/hyojunahn111/Mohaeng)
-
-<p align="right"><a href="#toc">맨 위로 이동 ⤴</a></p>
-<hr/>
-
-<!-- 4 -->
-<h2 id="passaggio">4. Passaggio 🎼</h2>
-<h3>개인 플레이리스트 만들기</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/기간-2024.04.08~2024.04.15-7952B3" /><br>
-  <img src="https://img.shields.io/badge/역할-회원가입/로그인-20C997" /><br>
-  <img src="https://img.shields.io/badge/분야-플레이리스트/크롤링-0FA958" />
-</p>
-
-<blockquote>
-크롤링으로 노래를 검색해 원하는 노래를 플레이리스트에 저장·공유
-</blockquote>
-
-- Back-end
-  - Language: Java
-  - Skill: IntelliJ IDEA, Java, MySQL, MyBatis, ERD Cloud, Diagrams Draw.io
-- 링크: [프로젝트 상세 설명(Back-end)](https://github.com/hyojunahn111/passaggio_venture/blob/main/README.md)
-
-<p align="right"><a href="#toc">맨 위로 이동 ⤴</a></p>
-<hr/>
-
-<!-- 3 -->
-<h2 id="bul-sajo">3. 불사조 🧨</h2>
-<h3>콘솔 게임(턴제 게임)</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/기간-2024.03.19~2024.04.01-7952B3" /><br>
-  <img src="https://img.shields.io/badge/역할-게임_로직/Java_콘솔-20C997" /><br>
-  <img src="https://img.shields.io/badge/분야-턴제_게임-0FA958" />
-</p>
-
-<blockquote>
-네 가지 캐릭터 중 한 캐릭터를 선택해 보스를 무찌르며 탑을 오르는 게임
-</blockquote>
-
-- Back-end
-  - Language: Java
-- 링크: [프로젝트 상세 설명(Back-end)](https://github.com/2024-venture-game/start/blob/master/README.md)
-
-
-<p align="right"><a href="#toc">맨 위로 이동 ⤴</a></p>
-<hr/>
-
-<!-- 2 -->
-<h2 id="seoul-metro-facility">2. 서울도시철도공사 편의시설물 관리 시스템 🚄</h2>
-
-<p>
-  <img src="https://img.shields.io/badge/기간-2023.09~2023.12.17-7952B3" /><br>
-  <img src="https://img.shields.io/badge/역할-DB/폼_제작-20C997" /><br>
-  <img src="https://img.shields.io/badge/분야-편의시설물_관리-0FA958" />
-</p>
-
-<blockquote>
-편의시설물 관리를 쉽게 할 수 있는 시스템
-</blockquote>
-
-- Back-end
-  - Language: C#
-  - Skill: Visual Studio, DA#, Case Studio 2
-- 링크
-  - 프로젝트(Back-end): https://drive.google.com/file/d/1xOvpUb3Sa8YoZU_ZFwkya6BLFQXgqtT_/view?usp=sharing
-
-<table>
-<tr>
-  <!-- 왼쪽: 이미지 -->
-  <td align="center">
-    <a href="https://docs.google.com/presentation/d/1b_W1BJrCs-3H-IYmm7Q_oJoeQ_IkllQ_/edit?usp=sharing">
-      <img src="https://github.com/user-attachments/assets/c2bef9d6-c0d0-4346-bc26-627e06a9e933" alt="서울도시철도공사 편의시설물 관리 시스템" width="300" style="height:auto;" />
-    </a>
-    <br/>
-    <sub>📄 이미지를 클릭하면 PPT로 이동합니다</sub>
-  </td>
-
-  <!-- 오른쪽: 링크 안내 -->
-<td align="center" valign="top">
-  <a href="https://drive.google.com/file/d/1xaH-7nWwUrm_remqkb2-0XlAhb8FUxxZ/view?usp=sharing">
-    <img src="https://github.com/user-attachments/assets/2dcb211b-5264-4bf9-85a7-d3c3752c69af" alt="보고서 이미지" width="300" style="height:auto;" />
-  </a>
+<br/>
+
+## 🚀 INTRO
+> 안녕하십니까! **백엔드 · 프론트엔드 개발자 안효준**입니다.  
+> 지금까지 다수의 프로젝트를 통해 **백엔드, 프론트엔드, 클라우드 아키텍처**를 폭넓게 학습하고 적용해 왔습니다.  
+> 끊임없이 배우고 기록하며, 문제를 해결해 나가는 과정을 즐깁니다!
+
+<br/>
+
+## 🛠️ TECH STACK
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <br/>
-  <sub>📄 이미지를 클릭하면 보고서로 이동합니다</sub>
-</td>
-</tr>
-</table>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=Apache-Kafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
+</div>
 
+<h2 id="toc">📋 PROJECT LIST</h2>
 
-<p align="right"><a href="#toc">맨 위로 이동 ⤴</a></p>
-<hr/>
+| No | Project Name | Description | Date |
+|:---:|:---|:---|:---:|
+| 14 | [쪼개몰 🧩](#14-쪼개몰-) | 블록체인 기반 조각투자 플랫폼 | 25.07 ~ 25.09 |
+| 13 | 머니핑 💰 | 부모 자녀 동반 금융 습관 형성 앱 | 25.06 ~ 25.07 |
+| 12 | [GongGongHouse 🏠](#12-gonggonghouse-) | 청년 집 정보 제공 서비스 | 25.05 ~ 25.06 |
+| 11 | [AI 오늘의 채용 날씨 ☂️](#11-ai가-알려주는-오늘의-채용-날씨-️) | 신입 개발자 맞춤형 채용/뉴스 서비스 | 25.03 ~ 25.05 |
+| 10 | AI 음성 배달 서비스 🚚 | 생성형 AI 기반 음성인식 배달 | 24.11 |
+| 9 | Senials 👨‍🦳 | 시니어 맞춤형 취미/동호회 매칭 | 24.09 ~ 24.12 |
+| 8 | AboutHorizon ✈ | 시각장애인 교육 자료 제공 플랫폼 | 24.08 |
+| 7 | DOYOUKNOW 🛴 | 복잡한 학교 정보 간편 확인 서비스 | 24.05 ~ 24.06 |
+| 6 | HanulDure 🏞 | 농촌 체험 커뮤니티 서비스 | 24.05 |
+| 5 | Mohaeng 🛫 | 분산된 여행 정보 통합 플랫폼 | 24.04 ~ 24.05 |
+| 4 | Passaggio 🎼 | 크롤링 기반 플레이리스트 제작/공유 | 24.04 |
+| 3 | 불사조 🧨 | 콘솔 기반 턴제 보스 사냥 게임 | 24.03 ~ 24.04 |
+| 2 | 서울도시철도 편의시설 🚄 | 도시철도 편의시설물 관리 시스템 | 23.09 ~ 23.12 |
+| 1 | ARKQuiz 🎃 | 모바일 게임 퀴즈 애플리케이션 | 21.01 ~ 21.05 |
 
-<!-- 1 -->
-<h2 id="arkquiz">1. ARKQuiz 🎃</h2>
+<br/>
 
+---
+
+## 🏆 LATEST PROJECTS
+
+<h3 id="14-쪼개몰-">14. 쪼개몰 🧩</h3>
+<p><b>블록체인 기반 조각투자 플랫폼 (LG CNS 아이디어 해커톤)</b></p>
 <p>
-  <img src="https://img.shields.io/badge/기간-2021.01~2021.05-7952B3" /><br>
-  <img src="https://img.shields.io/badge/역할-백엔드/디자인/퀴즈_제작-20C997" /><br>
-  <img src="https://img.shields.io/badge/분야-모바일_퀴즈_게임-0FA958" />
+  <img src="https://img.shields.io/badge/기간-2025.07.04~2025.09.17-7952B3?style=flat-square" />
+  <img src="https://img.shields.io/badge/역할-API연동_/_화면구현_/_형상관리-20C997?style=flat-square" />
+  <img src="https://img.shields.io/badge/Skill-React,_Tailwind,_MSA,_API_Gateway-0FA958?style=flat-square" />
 </p>
 
-<blockquote>
-게임 퀴즈 어플
-</blockquote>
+- **Language:** Java, JavaScript
+- **Links:** [GitHub Repository](https://github.com/LG-CNS-2-FINAL-PROJECT-FINANCE) ｜ [Notion](https://www.notion.so/3-ZzoGaeMall-225fef49d8d58064bd44d58fe3b973b2) ｜ [시연영상(YouTube)](https://www.youtube.com/watch?v=YqR9gQ3ugHk&feature=youtu.be)
 
-- Back-end
-  - Language: Java
-  - Skill: Java, Figma
-- 링크: [프로젝트 코드(Back-end)](https://github.com/hyojunahn111/ARKQuiz)
-- Notion: [노션](https://eloquence-developers.tistory.com/21)
+<br/>
+
+<h3 id="12-gonggonghouse-">12. GongGongHouse 🏠</h3>
+<p><b>집을 구하기 힘든 청년들을 위해 필요한 정보를 제공하는 서비스</b></p>
+<p>
+  <img src="https://img.shields.io/badge/기간-2025.05.26~2025.06.26-7952B3?style=flat-square" />
+  <img src="https://img.shields.io/badge/역할-커뮤니티_페이지_/_Kafka_/_Docker-20C997?style=flat-square" />
+</p>
+
+- **Language:** Java, JavaScript
+- **Skill:** Spring Boot, JPA, MySQL, MSA, API-gateway, Docker, Kafka
+- **Links:** [GitHub Repository](https://github.com/hyojunahn111/GongGongHouse) ｜ [발표자료(PPT)](https://github.com/user-attachments/files/22311821/8.-.pdf)
+
+<br/>
+
+<h3 id="11-ai가-알려주는-오늘의-채용-날씨-️">11. AI가 알려주는 오늘의 채용 날씨 ☂️</h3>
+<p><b>신입 개발자를 위한 맞춤형 채용 정보 및 기업 뉴스 서비스</b></p>
+<p>
+  <img src="https://img.shields.io/badge/기간-2025.03.20~2025.05.23-7952B3?style=flat-square" />
+  <img src="https://img.shields.io/badge/역할-채용정보_페이지_/_사람인API-20C997?style=flat-square" />
+</p>
+
+- **Language:** Java, JavaScript
+- **Skill:** Spring Boot, JPA, MySQL, MSA
+- **Links:** [GitHub (Back-end)](https://github.com/LG-CNS-AM-CAMP-2ND-PJT1-TEAM9/job_weather_back) ｜ [GitHub (Front-end)](https://github.com/LG-CNS-AM-CAMP-2ND-PJT1-TEAM9/job-weather-front) ｜ [발표자료(PPT)](https://github.com/user-attachments/files/22311760/good.job.today.pdf)
 
 <p align="right"><a href="#toc">맨 위로 이동 ⤴</a></p>
 
-<hr/>
+---
 
-<!-- 연락 및 요약 -->
+## 📁 OTHER PROJECTS
+
+<details>
+<summary><b>👉 이전 프로젝트 더 보기 (클릭해서 펼치기)</b></summary>
+
+<br/>
+
+### 13. 머니핑(아이디어 해커톤) 💰
+- **기간:** 2025.06.30 ~ 2025.07.01
+- **분야:** 부모와 자녀가 함께 참여하는 금융 습관 형성 앱
+- **Links:** [기획 배경(PDF)](https://github.com/user-attachments/files/22311866/3._._.pdf) ｜ [발표자료(PPT)](https://github.com/user-attachments/files/22311881/3.pdf)
+
+---
+
+### 10. 생성형 AI 기반 음성인식 배달 서비스 🚚
+- **기간:** 2024.11.14 ~ 2024.11.22
+- **분야:** AI 배달 주문 아이디어 해커톤
+- **Links:** [발표자료(PPT)](https://github.com/user-attachments/files/22311976/_AI.pdf)
+
+---
+
+### 9. Senials 👨‍🦳
+- **기간:** 2024.09.11 ~ 2024.12.17
+- **분야:** 시니어를 위한 맞춤형 취미 추천/매칭 웹페이지
+- **Skill:** Java, Spring Boot, Spring Security, OAuth 2.0, MySQL
+- **Links:** [GitHub Repository](https://github.com/DoYous/Senials-Backend/blob/main/README.md)
+
+---
+
+### 8. AboutHorizon ✈
+- **기간:** 2024.08.20 ~ 2024.08.21
+- **분야:** 시각장애인을 위한 교육 자료 제공 플랫폼
+- **Skill:** Java, Spring Boot, Clova API, ChatGPT 4.0
+- **Links:** [GitHub Repository](https://github.com/36Clover/CloverChallenge/blob/main/README.md)
+
+---
+
+### 7. DOYOUKNOW 🛴
+- **기간:** 2024.05.28 ~ 2024.06.14
+- **분야:** 학교 정보 공유 간편 확인 서비스
+- **Skill:** Java, Spring Boot, MySQL, JPA
+- **Links:** [GitHub Repository](https://github.com/hyojunahn111/DOYOUKNOW/blob/main/README.md)
+
+---
+
+### 6. HanulDure 🏞
+- **기간:** 2024.05.10 ~ 2024.05.24
+- **분야:** 농촌 활성화를 위한 체험 커뮤니티 서비스
+- **Skill:** Java, Spring Boot, MyBatis
+- **Links:** [GitHub Repository](https://github.com/hyojunahn111/HanulDure/blob/main/README.md)
+
+---
+
+### 5. Mohaeng 🛫
+- **기간:** 2024.04.29 ~ 2024.05.05
+- **분야:** 흩어진 여행 정보를 모아둔 통합 사이트 (Front-end)
+- **Skill:** JavaScript, React
+- **Links:** [GitHub Repository](https://github.com/hyojunahn111/Mohaeng)
+
+---
+
+### 4. Passaggio 🎼
+- **기간:** 2024.04.08 ~ 2024.04.15
+- **분야:** 크롤링 기반 개인 플레이리스트 제작 및 공유
+- **Skill:** Java, MySQL, MyBatis
+- **Links:** [GitHub Repository](https://github.com/hyojunahn111/passaggio_venture/blob/main/README.md)
+
+---
+
+### 3. 불사조 🧨
+- **기간:** 2024.03.19 ~ 2024.04.01
+- **분야:** 턴제 콘솔 보스 사냥 게임
+- **Skill:** Java
+- **Links:** [GitHub Repository](https://github.com/2024-venture-game/start/blob/master/README.md)
+
+---
+
+### 2. 서울도시철도공사 편의시설물 관리 시스템 🚄
+- **기간:** 2023.09 ~ 2023.12.17
+- **분야:** 편의시설물 관리 윈도우 폼 시스템
+- **Skill:** C#, Visual Studio, DA#
+- **Links:** [발표자료(PPT)](https://docs.google.com/presentation/d/1b_W1BJrCs-3H-IYmm7Q_oJoeQ_IkllQ_/edit?usp=sharing) ｜ [결과 보고서](https://drive.google.com/file/d/1xaH-7nWwUrm_remqkb2-0XlAhb8FUxxZ/view?usp=sharing)
+
+---
+
+### 1. ARKQuiz 🎃
+- **기간:** 2021.01 ~ 2021.05
+- **분야:** 게임 퀴즈 어플리케이션
+- **Skill:** Java, Figma
+- **Links:** [GitHub Repository](https://github.com/hyojunahn111/ARKQuiz) ｜ [Notion 블로그](https://eloquence-developers.tistory.com/21)
+
+<br/>
+
+</details>
+
+<br/>
+
 <p align="center">
-  <b>Contact</b> · <a href="mailto:hyojunahn111@gmail.com">hyojunahn111@gmail.com</a> · <a href="#toc">맨 위로</a>
+  <b>Contact</b> · <a href="mailto:hyojunahn1234@gmail.com">hyojunahn1234@gmail.com</a> · <a href="#toc">맨 위로 이동 ⤴</a>
 </p>
