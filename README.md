@@ -69,7 +69,7 @@
 </p>
 
 - **Language:** Java, TypeScript
-- **Links:** [GitHub Repository](#) ｜ [Notion](#) (추후추가)
+- **Links:** [GitHub Repository](https://github.com/hyojunahn111/vibecoding) ｜ [Notion](#) (추후추가)
 
 <p align="right"><a href="#toc">맨 위로 이동 ⤴</a></p>
 
