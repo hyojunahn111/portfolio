@@ -38,7 +38,7 @@
 
 | No | Project Name | Description | Date |
 |:---:|:---|:---|:---:|
-| 15 | [BookFood 🚧](#15-BookFood-) | 나만의 책 기록 앱 | 26.04 ~ 진행 중 |
+| 15 | [BookFood 🚧](#15-BookFood-) | 책식 | 26.04 ~ 진행 중 |
 | 14 | [쪼개몰 🧩](#14-쪼개몰-) | 블록체인 기반 조각투자 플랫폼 | 25.07 ~ 25.09 |
 | 13 | 머니핑 💰 | 부모 자녀 동반 금융 습관 형성 앱 | 25.06 ~ 25.07 |
 | 12 | [GongGongHouse 🏠](#12-gonggonghouse-) | 청년 집 정보 제공 서비스 | 25.05 ~ 25.06 |
@@ -61,7 +61,7 @@
 ## 🔥 CURRENTLY WORKING ON
 
 <h3 id="15-BookFood-">15. BookFood 🚧</h3>
-<p><b>나만의 책 기록 앱</b></p>
+<p><b>책식</b></p>
 <p>
   <img src="https://img.shields.io/badge/기간-2026.04~진행중-7952B3?style=flat-square" />
   <img src="https://img.shields.io/badge/역할-개발-20C997?style=flat-square" />
@@ -70,6 +70,7 @@
 
 - **Language:** Java, TypeScript
 - **Links:** [GitHub Repository](https://github.com/hyojunahn111/vibecoding) ｜ [Notion](#) (추후추가)
+- **베포:** Render(백앤드), Expo Go(프론트앤드), Clever Cloud(MySQL)
 
 <p align="right"><a href="#toc">맨 위로 이동 ⤴</a></p>
 
