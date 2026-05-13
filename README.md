@@ -79,7 +79,7 @@
 ## 🏆 LATEST PROJECTS
 
 <h3 id="14-쪼개몰-">14. 쪼개몰 🧩</h3>
-<p><b>블록체인 기반 조각투자 플랫폼 (LG CNS 아이디어 해커톤)</b></p>
+<p><b>블록체인 기반 조각투자 플랫폼</b></p>
 <p>
   <img src="https://img.shields.io/badge/기간-2025.07.04~2025.09.17-7952B3?style=flat-square" />
   <img src="https://img.shields.io/badge/역할-API연동_/_화면구현_/_형상관리-20C997?style=flat-square" />
