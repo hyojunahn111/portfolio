@@ -38,7 +38,7 @@
 
 | No | Project Name | Description | Date |
 |:---:|:---|:---|:---:|
-| 15 | [BookFood 🚧](#15-BookFood-) | 책식 | 26.04 ~ 진행 중 |
+| 15 | [BookFood 🚧](#15-BookFood-) | 책식 | 26.04 ~ 26.05 |
 | 14 | [쪼개몰 🧩](#14-쪼개몰-) | 블록체인 기반 조각투자 플랫폼 | 25.07 ~ 25.09 |
 | 13 | 머니핑 💰 | 부모 자녀 동반 금융 습관 형성 앱 | 25.06 ~ 25.07 |
 | 12 | [GongGongHouse 🏠](#12-gonggonghouse-) | 청년 집 정보 제공 서비스 | 25.05 ~ 25.06 |
@@ -63,7 +63,7 @@
 <h3 id="15-BookFood-">15. BookFood 🚧</h3>
 <p><b>책식</b></p>
 <p>
-  <img src="https://img.shields.io/badge/기간-2026.04~진행중-7952B3?style=flat-square" />
+  <img src="https://img.shields.io/badge/기간-2026.04~2026.05-7952B3?style=flat-square" />
   <img src="https://img.shields.io/badge/역할-개발-20C997?style=flat-square" />
   <img src="https://img.shields.io/badge/Skill-VibeCoding-0FA958?style=flat-square" />
 </p>
